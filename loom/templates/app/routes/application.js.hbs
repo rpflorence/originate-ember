@@ -1,0 +1,11 @@
+var Ember = require('ember');
+var ajax = require('ic-ajax');
+
+module.exports = Ember.Route.extend({
+
+  model: function() {
+    return ajax('http://addressbook-api.herokuapp.com/contacts');
+  }
+
+});
+
