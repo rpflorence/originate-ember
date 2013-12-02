@@ -1,7 +1,7 @@
 originate-ember
 ===============
 
-[loom][1] origin for creating new [ember] projects.
+[loom][1] origin for creating new [ember][2] projects.
 
 Usage
 -----
