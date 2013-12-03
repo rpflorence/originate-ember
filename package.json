@@ -13,7 +13,8 @@
   },
   "dependencies": {
     "loom": "3.x.x",
-    "glob": "~3.2.7"
+    "glob": "~3.2.7",
+    "shelljs": "~0.2.6"
   },
   "devDependencies": {
     "mocha": "~1.12.0",
