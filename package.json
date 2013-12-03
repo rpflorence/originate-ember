@@ -1,6 +1,6 @@
 {
   "name": "originate-ember",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "loom origin for new ember projects",
   "scripts": {
     "test": "node_modules/.bin/mocha --require should  --ui bdd $(find test -name \"*.spec.js\")",
